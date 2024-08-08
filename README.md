@@ -1,3 +1,4 @@
-# DbgForLinux
+# DbgForWindows
 
-A linux dbg on x86_64
+A windows dbg on x86_64
+
