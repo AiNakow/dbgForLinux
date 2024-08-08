@@ -34,4 +34,6 @@ int main(int argc, char* argv[]) {
 
     CloseHandle(pi.hProcess);
     CloseHandle(pi.hThread);
+
+    return 0;
 }
